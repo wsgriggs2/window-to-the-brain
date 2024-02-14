@@ -1,0 +1,418 @@
+[
+  {
+    "session_folder": "20220908",
+    "run_folder": "fUSI_implant_1mm",
+    "condition": 1,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20220908",
+    "run_folder": "fUSI_implant_2mm_1",
+    "condition": 2,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20220908",
+    "run_folder": "fUSI_implant_2mm_2",
+    "condition": 2,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20220908",
+    "run_folder": "fUSI_implant_3mm_1_secondbloc_71to95",
+    "condition": 1,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      95
+    ]
+  },
+  {
+    "session_folder": "20220908",
+    "run_folder": "fUSI_implant_3mm_2",
+    "condition": 3,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20220908",
+    "run_folder": "fUSI_implant_mesh",
+    "condition": -1,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20220908",
+    "run_folder": "fUSI_no_implant_end",
+    "condition": 0,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20220908",
+    "run_folder": "fUSI_visual_no_implant_beginning",
+    "condition": 0,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20220922",
+    "run_folder": "no_implant_beginning_1",
+    "condition": 0,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20220922",
+    "run_folder": "fUSI_mesh_2",
+    "condition": -1,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20220922",
+    "run_folder": "fUSI_3mm_3",
+    "condition": 3,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20220922",
+    "run_folder": "fUSI_2mm_4",
+    "condition": 2,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20220922",
+    "run_folder": "fUSI_1mm_5",
+    "condition": 1,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20220922",
+    "run_folder": "fUSI_no_implant_end_6",
+    "condition": 0,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20220922",
+    "run_folder": "fUSI_2mm_7",
+    "condition": 2,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20221002",
+    "run_folder": "Mesh_1",
+    "condition": -1,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20221002",
+    "run_folder": "No_implant_2",
+    "condition": 0,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20221002",
+    "run_folder": "Implant_3mm_3",
+    "condition": 3,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20221002",
+    "run_folder": "Implant_2mm_4",
+    "condition": 2,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20221002",
+    "run_folder": "Implant_1mm_5__second_activ_stopped_at_84",
+    "condition": 1,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      85
+    ]
+  },
+  {
+    "session_folder": "20221008",
+    "run_folder": "No_implant_1",
+    "condition": 0,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20221008",
+    "run_folder": "Implant_1mm_3",
+    "condition": 1,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20221008",
+    "run_folder": "Implant_2mm_2",
+    "condition": 2,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20221008",
+    "run_folder": "Implant_3mm_4",
+    "condition": 3,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20221008",
+    "run_folder": "Mesh_5",
+    "condition": -1,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  },
+  {
+    "session_folder": "20221008",
+    "run_folder": "No_implant_6",
+    "condition": 0,
+    "plane": -1,
+    "on_block_cell": [
+      31,
+      71,
+      111
+    ],
+    "off_block_cell": [
+      1,
+      41,
+      81
+    ]
+  }
+]
