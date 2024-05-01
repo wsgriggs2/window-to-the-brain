@@ -14,7 +14,7 @@
 
 
 % Define path to save data
-path_to_vantage_folder = '\Users\Downloads\Vantage-4.4.0\' ; % Update with your path
+path_to_Vantage_folder = '\Users\Downloads\Vantage-4.4.0\' ; % Update with your path
 path_save = 'D:\fUSI_sequence\'; % Update with your path
 SaveName = 'Test';
 
@@ -36,5 +36,5 @@ BmodesFrameRate = 500;                  % Framerate of B-modes
 % Script to send the variables to:
 % "Verasonics_sequence.p" needs to be put in the root of the Vantage 4.4.0
 % folder, i.e., "pathToVantageFolder\Verasonics_sequence.p".
-Verasonics_sequence = fullfile(path_to_vantage_folder, 'Verasonics_sequence.p');
+Verasonics_sequence = fullfile(path_to_Vantage_folder, 'Verasonics_sequence.p');
 run(Verasonics_sequence);
