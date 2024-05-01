@@ -1,4 +1,4 @@
-# MATLAB code to replicate main results from "A window to the brain: ultrasound imaging of human neural activity through an acoustically transparent cranial prosthetic"
+# MATLAB code to replicate main results from "Functional ultrasound imaging of freely moving adult human neural activity through an acoustically transparent cranial prosthetic"
 ==============================
 
 
@@ -10,6 +10,7 @@
     ├── README.md                       <- The top-level README for developers using this project
     ├── docs                            <- documentation 
     ├── +w2b                            <- window 2 the brain (w2b) package for commonly used functionality
+    ├── acquisition                     <- sample acquisition code for fUSI
     ├── experiments                     <- source code for experiment specific scripts 
     ├── references                      <- data dictionaries, manuals, other explanatory materials
     └── third-party                     <- third party submodules, repositories, functions, etc.
@@ -42,7 +43,7 @@ Zenodo archive -
 ==============================
 
 ### In publications, please reference:
-Rabut, C., Norman, S.L., Griggs, W.S., Russin, J.R., Jann, K., Christopoulos, V., Liu, C., Andersen, R.A., and Shapiro, M.G. A window to the brain: ultrasound imaging of human neural activity through an acoustically transparent cranial prosthetic. Science Translational Medicine. _Accepted._ (See BioRxiv version [here](https://www.biorxiv.org/content/10.1101/2023.06.14.544094v1))
+Rabut, C., Norman, S.L., Griggs, W.S., Russin, J.R., Jann, K., Christopoulos, V., Liu, C., Andersen, R.A., and Shapiro, M.G. Functional ultrasound imaging of freely moving adult human neural activity through an acoustically transparent cranial prosthetic. Science Translational Medicine. _Accepted._ (See BioRxiv version [here](https://www.biorxiv.org/content/10.1101/2023.06.14.544094v1))
 
 ------------
 ## Getting set up
